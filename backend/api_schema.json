@@ -1,0 +1,159 @@
+{
+    "API": {
+      "CHECK": {
+        "endpoint": "/api/check",
+        "method": "GET",
+        "request": {},
+        "response": {
+          "message": "I am up and running"
+        }
+      },
+      "REGISTER": {
+        "endpoint": "/api/register",
+        "method": "POST",
+        "request": {
+          "email": "string",
+          "username": "string",
+          "password": "string"
+        },
+        "response": {
+          "message": "User registered successfully"
+        }
+      },
+      "LOGIN": {
+        "endpoint": "/api/login",
+        "method": "POST",
+        "request": {
+          "email": "string",
+          "password": "string"
+        },
+        "response": {
+          "message": "Login successful",
+          "user_id": "integer"
+        }
+      },
+      "SONGS": {
+        "GET_SONG": {
+          "endpoint": "/api/songs/<id>",
+          "method": "GET",
+          "request": {},
+          "response": {
+            "title": "string",
+            "artist_id": "integer",
+            "artist_name": "string"
+          }
+        },
+        "GET_SONG_COVER": {
+          "endpoint": "/api/songs/<id>/cover",
+          "method": "GET",
+          "request": {},
+          "response": "image/jpg"
+        },
+        "STREAM_SONG": {
+          "endpoint": "/api/songs/<id>/stream",
+          "method": "GET",
+          "request": {},
+          "response": "audio/wav"
+        }
+      },
+      "ARTISTS": {
+        "GET_ARTIST": {
+          "endpoint": "/api/artists/<id>",
+          "method": "GET",
+          "request": {},
+          "response": {
+            "name": "string",
+            "about": "string",
+            "genres": [
+              "string"
+            ]
+          }
+        },
+        "GET_ARTIST_PICTURE": {
+          "endpoint": "/api/artists/<id>/picture",
+          "method": "GET",
+          "request": {},
+          "response": "image/jpg"
+        },
+        "GET_ARTIST_RELEASES": {
+          "endpoint": "/api/artists/<id>/releases",
+          "method": "GET",
+          "request": {},
+          "response": [
+            {
+              "release_id": "integer",
+              "release_name": "string",
+              "release_type": "string",
+              "release_date": "date"
+            }
+          ]
+        }
+      },
+      "RELEASES": {
+        "GET_RELEASE": {
+          "endpoint": "/api/releases/<id>",
+          "method": "GET",
+          "request": {},
+          "response": {
+            "release_id": "integer",
+            "release_name": "string",
+            "release_type": "string",
+            "release_date": "date"
+          }
+        },
+        "GET_RELEASE_SONGS": {
+          "endpoint": "/api/releases/<id>/songs",
+          "method": "GET",
+          "request": {},
+          "response": [
+            {
+              "song_id": "integer",
+              "title": "string",
+              "artist_id": "integer",
+              "release_id": "integer",
+              "audio_fname": "string"
+            }
+          ]
+        },
+        "GET_RELEASE_COVER": {
+          "endpoint": "/api/releases/<id>/cover",
+          "method": "GET",
+          "request": {},
+          "response": "image/jpg"
+        }
+      },
+      "PLAYLISTS": {
+        "GET_PLAYLIST": {
+          "endpoint": "/api/playlists/<id>",
+          "method": "GET",
+          "request": {},
+          "response": {
+            "playlist_id": "integer",
+            "playlist_name": "string",
+            "owner_id": "integer",
+            "pl_cover_fname": "string"
+          }
+        },
+        "GET_PLAYLIST_SONGS": {
+          "endpoint": "/api/playlists/<id>/songs",
+          "method": "GET",
+          "request": {},
+          "response": [
+            {
+              "song_id": "integer",
+              "title": "string",
+              "artist_id": "integer",
+              "release_id": "integer",
+              "audio_fname": "string"
+            }
+          ]
+        },
+        "GET_PLAYLIST_COVER": {
+          "endpoint": "/api/playlists/<id>/cover",
+          "method": "GET",
+          "request": {},
+          "response": "image/jpg"
+        }
+      }
+    }
+  }

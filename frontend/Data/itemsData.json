@@ -1,0 +1,296 @@
+[
+  {
+    "title": "Muzyka",
+    "color": "#FF00FF",
+    "image": "https://www.billboard.com/wp-content/uploads/media/ariana-grande-sweetner-album-art-2018-billboard-1240.jpg?w=768",
+    "songIds": [20, 2, 3, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18],
+    "image2": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bXVzaWN8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "title": "Podcasty",
+    "color": "#088F8F",
+    "image": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/1f2b5e119743765.60a406c890f14.png",
+    "songIds": [1, 2, 3],
+    "image2": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cG9kY2FzdHxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "title": "Wydarzenia na żywo",
+    "color": "#7F00FF",
+    "image": "https://cdns-images.dzcdn.net/images/cover/d9f91c32805c2d08bdb12b47799a7787/0x1900-000000-80-0-0.jpg",
+    "songIds": [1, 2, 3],
+    "image2": "https://images.unsplash.com/photo-1729553199933-c897fea4f41f?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGl2ZSUyMGV2ZW50fGVufDB8fDB8fHww"
+  },
+  {
+    "title": "Przygotowane dla Ciebie",
+    "color": "#0047AB",
+    "image": "https://marketplace.canva.com/EAEdeiU-IeI/1/0/1600w/canva-purple-and-red-orange-tumblr-aesthetic-chill-acoustic-classical-lo-fi-playlist-cover-jGlDSM71rNM.jpg",
+    "songIds": [1, 2, 3],
+    "image2": "https://www.umgnashville.com/files/2024/08/image-6-png-converted-compressed-1024x683.jpg"
+  },
+  {
+    "title": "Nowe wydania",
+    "color": "#AFE1AF",
+    "image": "https://marketplace.canva.com/EAFLwztjloU/1/0/1600w/canva-black-ethereal-trendy-modern-album-cover-_mKJmQbqzNA.jpg",
+    "songIds": [1, 2, 3],
+    "image2": "https://img.freepik.com/premium-photo/mount-fuji-fujisan-star_63253-2401.jpg?semt=ais_hybrid"
+  },
+  {
+    "title": "Hip-hop",
+    "color": "#E5E4E2",
+    "image": "https://i.pinimg.com/736x/d6/59/76/d65976265e1a00d94e6f6f331aee7fac.jpg",
+    "songIds": [1, 2, 3],
+    "image2": "https://plus.unsplash.com/premium_photo-1682089697749-f5cdd624f21e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aGlwJTIwaG9wfGVufDB8fDB8fHww"
+  },
+  {
+    "title": "Pop",
+    "color": "#FF3131",
+    "image": "https://albumcoverzone.com/slir/w1200/png24-front/albumcover0001847.jpg",
+    "songIds": [1, 2, 3],
+    "image2": "https://bigthink.com/wp-content/uploads/2022/09/AdobeStock_117487978.jpg?resize=1200,630"
+  },
+  {
+    "title": "Święta",
+    "color": "#C41E3A",
+    "image": "https://i.scdn.co/image/ab67616d0000b273ccc1ed18f663e57e1761c3ac",
+    "songIds": [55, 59, 60, 61],
+    "image2": "https://i.pinimg.com/originals/e8/75/67/e8756701e66b7f30a5df3cccd62ad056.jpg"
+  },
+  {
+    "title": "Nastrój",
+    "color": "#E30B5C",
+    "image": "https://cdns-images.dzcdn.net/images/cover/09327b06bb746a3c63c1f2450e01c5d9/1900x1900-000000-80-0-0.jpg",
+    "songIds": [1, 2, 3],
+    "image2": "https://w0.peakpx.com/wallpaper/859/696/HD-wallpaper-music-is-life-earphones-mood-music-graphy-redmi.jpg"
+  },
+  {
+    "title": "Listy przebojów",
+    "color": "#E0B0FF",
+    "image": "https://cdns-images.dzcdn.net/images/cover/adf3261d918088aa9ed5ecb673c2ee89/0x1900-000000-80-0-0.jpg",
+    "songIds": [1, 2, 3],
+    "image2": "https://media.istockphoto.com/id/1093627396/photo/dj-music-console-in-bright-colors-of-light-in-night-club.jpg?s=612x612&w=0&k=20&c=FXx6C2-sexkkMhHG17c6PYdVTylzItLSpZZdFehfFJY="
+  },
+  {
+    "title": "Ranking podcastów",
+    "color": "#00008B",
+    "image": "https://marketplace.canva.com/EAFIP4_9nrI/1/0/1600w/canva-black-neon-welcome-bank-podcast-cover-zBty84ekuGw.jpg",
+    "songIds": [1, 2, 3],
+    "image2": "https://img.freepik.com/premium-photo/podcasting-radio-concept-with-retro-microphone-headphones-empty-wooden-table-dark-blank-wall-background-with-place-your-logo-text-3d-rendering-mock-up_670147-1620.jpg"
+  },
+  {
+    "title": "Komedia",
+    "color": "#6F8FAF",
+    "image": "https://cdns-images.dzcdn.net/images/cover/880ed18f705e6bc79e75375d6d915e54/0x1900-000000-80-0-0.jpg",
+    "songIds": [1, 2, 3],
+    "image2": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bXVzaWN8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "title": "Edukacja",
+    "color": "#FF00FF",
+    "image": "https://cdns-images.dzcdn.net/images/cover/1a27eb89ab41b0a320a13780802cc66b/1900x1900-000000-80-0-0.jpg"
+  },
+  {
+    "title": "Prawdziwe zbrodnie",
+    "color": "#9F2B68",
+    "image": "https://cdns-images.dzcdn.net/images/talk/dcd3c521997c6a07190a7796f3ba644e/0x1900-000000-80-0-0.jpg"
+  },
+  {
+    "title": "Indie",
+    "color": "#EC5800",
+    "image": "https://i1.wp.com/creativesfeed.com/wp-content/uploads/2018/08/Life-in-a-Bubble-by-Aeforia.jpg?w=8000&ssl=1"
+  },
+  {
+    "title": "Na czasie",
+    "color": "#AA336A",
+    "image": "https://images.squarespace-cdn.com/content/v1/59ffb6c7be42d663fb7b45c7/1611245856070-12J08FSBFTTE0LCEXT46/31.jpg"
+  },
+  {
+    "title": "Muzyka elektroniczna/dance",
+    "color": "#7393B3",
+    "image": "https://cdn.venngage.com/template/thumbnail/small/79879260-0211-46bb-abcd-968fb4e2c0ea.webp"
+  },
+  {
+    "title": "Rock",
+    "color": "#088F8F",
+    "image": "https://www.udiscovermusic.com/wp-content/uploads/2017/08/Pink-Floyd-Dark-Side-Of-The-Moon.jpg"
+  },
+  {
+    "title": "Odkryj muzykę",
+    "color": "#C3B1E1",
+    "image": "https://www.designformusic.com/wp-content/uploads/2019/02/nova-music-discovery-album-cover-design.jpg"
+  },
+  {
+    "title": "Radio",
+    "color": "#FF69B4",
+    "image": "https://cdns-images.dzcdn.net/images/cover/0863bbecb8561247ea7607f3b1a093de/0x1900-000000-80-0-0.jpg"
+  },
+  {
+    "title": "Relaks",
+    "color": "#DAA520",
+    "image": "https://cdns-images.dzcdn.net/images/cover/20d1deb9639bb8d3c539ca221c9727d5/0x1900-000000-80-0-0.jpg"
+  },
+  {
+    "title": "Impreza",
+    "color": "#C3B1E1",
+    "image": "https://marketplace.canva.com/EAFNtGaU6to/1/0/1600w/canva-black-pink-hipster-modern-party-album-cover-Ej3J_AnQMQg.jpg"
+  },
+  {
+    "title": "Disco Polo",
+    "color": "#FF00FF",
+    "image": "https://m.media-amazon.com/images/I/91wYLylFkTL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "title": "RADAR",
+    "color": "#4CBB17",
+    "image": "https://cdns-images.dzcdn.net/images/cover/86191c33bde52c687878f8b460ab13c0/1900x1900-000000-80-0-0.jpg"
+  },
+  {
+    "title": "Trening",
+    "color": "#899499",
+    "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/workout-music-album-cover-design-template-7e781f1e4fa1c8671586a3ad3ef7d91e_screen.jpg?ts=1593032704"
+  },
+  {
+    "title": "EQUAL",
+    "color": "#009E60",
+    "image": "https://cdns-images.dzcdn.net/images/cover/088639eaa155ddc790385be8f97c5491/0x1900-000000-80-0-0.jpg"
+  },
+  {
+    "title": "Dekady",
+    "color": "#DAA06D",
+    "image": "https://cdns-images.dzcdn.net/images/cover/dd3c16ba682ece9448eb3449a4372799/0x1900-000000-80-0-0.jpg"
+  },
+  {
+    "title": "GLOW",
+    "color": "#0096FF",
+    "image": "https://cdns-images.dzcdn.net/images/cover/483a66200b59b041bb3201e44c32543c/1900x1900-000000-80-0-0.jpg"
+  },
+  {
+    "title": "K-pop",
+    "color": "#FF5F1F",
+    "image": "https://e.snmc.io/i/600/s/20ada28d04fe7f687ab5ba56e9e00708/9322315/nct-127-sticker-Cover-Art.jpg"
+  },
+  {
+    "title": "Sen",
+    "color": "#191970",
+    "image": "https://cdns-images.dzcdn.net/images/cover/202bb3280e383de2afd41aa13ab873d9/0x1900-000000-80-0-0.jpg"
+  },
+  {
+    "title": "Dom",
+    "color": "#6082B6",
+    "image": "https://cdns-images.dzcdn.net/images/cover/92c6ffa9044b91793e934d865c40d247/0x1900-000000-80-0-0.jpg"
+  },
+  {
+    "title": "Latynoskie rytmy",
+    "color": "#FF10F0",
+    "image": "https://cdns-images.dzcdn.net/images/cover/8453da83592b1ce09febf8af0e7751b8/0x1900-000000-80-0-0.jpg"
+  },
+  {
+    "title": "Miłość",
+    "color": "#FF00FF",
+    "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/fe529a64193929.5aca8500ba9ab.jpg"
+  },
+  {
+    "title": "Fresh Finds",
+    "color": "#F8C8DC",
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_n9q6kZcPj6oz7dT9bjYL9vIJkVYiNDur-7hVHIZE99=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "title": "Metal",
+    "color": "#C41E3A",
+    "image": "https://3.bp.blogspot.com/-d8Pohm127Qc/T4dAb7LGsrI/AAAAAAAAAMI/Ocdi72BvcWA/s1600/Bloodshot%2BDawn%2B-%2BBloodshot%2BDawn%2B%25282012%2529-Front.jpg"
+  },
+  {
+    "title": "Anime",
+    "color": "#0096FF",
+    "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tv-anime-album-mixtape-song-cover-template-design-535c490df48d1e3a2d2440a559ede53b_screen.jpg?ts=1690147606"
+  },
+  {
+    "title": "Jazz",
+    "color": "#C3B1E1",
+    "image": "https://marketplace.canva.com/EAE90oFC6zY/1/0/1600w/canva-black-orange-retro-dizzy-jazz-album-cover-varigMb33wc.jpg"
+  },
+  {
+    "title": "Klasyczna",
+    "color": "#6F4E37",
+    "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/classical-music-sea-album-cover-design-templa-template-be907c3f72aed31d76b51cd12ffab3ee_screen.jpg?ts=1593032171"
+  },
+  {
+    "title": "Netflix",
+    "color": "#FF5F15",
+    "image": "https://cdns-images.dzcdn.net/images/cover/6a79ce72b97110a23638be085eb5f18b/0x1900-000000-80-0-0.jpg"
+  },
+  {
+    "title": "Koncentracja",
+    "color": "#C19A6B",
+    "image": "https://cdns-images.dzcdn.net/images/cover/b2575e3698a1100ade4b43a9865e9f8f/0x1900-000000-80-0-0.jpg"
+  },
+  {
+    "title": "Folk i akustyczna",
+    "color": "#CC7722",
+    "image": "https://cdn.openart.ai/published/6v8hEIVkicMLnBU2hjuu/8zAnTjMj_s4sG_1024.webp"
+  },
+  {
+    "title": "Soul",
+    "color": "#FF00FF",
+    "image": "https://www.premadepixels.com/wp-content/uploads/2022/04/Soul-Searching-Album-Cover-PP1.jpg"
+  },
+  {
+    "title": "Gry",
+    "color": "#00008B",
+    "image": "https://cdns-images.dzcdn.net/images/cover/7ff7fe1e05df3365d4abde7b28233329/0x1900-000000-80-0-0.jpg"
+  },
+  {
+    "title": "Film i telewizja",
+    "color": "#AA336A",
+    "image": "https://cdn-p.smehost.net/sites/af0adc8ea1314bfb8328afdc06ce1e06/wp-content/uploads/2020/10/2067_Cover_RGB300_3000px-1024x1024.jpg"
+  },
+  {
+    "title": "R&B",
+    "color": "#C19A6B",
+    "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/r%26b-mixtape-rose-petals-love-song-design-template-246c031be175400ffc231979d49baef7_screen.jpg?ts=1696334792"
+  },
+  {
+    "title": "Instrumentalna",
+    "color": "#6495ED",
+    "image": "https://coverartworks.com/wp-content/uploads/2022/12/Instrumental-750-jpg.webp"
+  },
+  {
+    "title": "Punk",
+    "color": "#EE4B2B",
+    "image": "https://www.designformusic.com/wp-content/uploads/2017/07/Punked-and-Disorderly-punk-album-cover.jpg"
+  },
+  {
+    "title": "Ambient",
+    "color": "#50C878",
+    "image": "https://i.redd.it/ja2skdvaixz61.jpg"
+  },
+  {
+    "title": "Blues",
+    "color": "#D70040",
+    "image": "https://www.udiscovermusic.com/wp-content/uploads/2017/08/Howlin-Wolf-Howlin-Wolf-Album-Cover-web-730.jpg"
+  },
+  {
+    "title": "Gotowanie i jedzenie",
+    "color": "#CC7722",
+    "image": "https://cdns-images.dzcdn.net/images/cover/eeb04dac9315ded63d5ac5681df70493/0x1900-000000-80-0-0.jpg"
+  },
+  {
+    "title": "Podróż",
+    "color": "#3F00FF",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b3d4e16aefae8d6ecf6d9fec"
+  },
+  {
+    "title": "Autorzy piosenek",
+    "color": "#800020",
+    "image": "https://media.pitchfork.com/photos/5b0ed02ed8c21c49d0ae4de9/1:1/w_800,h_800,c_limit/Goodbye%20&%20Good%20Riddance.jpg"
+  },
+  {
+    "title": "Odgłosy natury i szumy",
+    "color": "#87CEEB",
+    "image": "https://www.premadepixels.com/wp-content/uploads/2021/01/Nature-Sounds-PP1.jpg"
+  },
+  {
+    "title": "Country",
+    "color": "#EC5800",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a2ced971f872bbffaba30def"
+  }
+]
